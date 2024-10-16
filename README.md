@@ -1,7 +1,7 @@
 # Provably Optimal Memory Capacity for Modern Hopfield Models
+## This is an official implementation of the NeurIPS 2024 paper: 
 
 ----------
-## This is an official implementation of the NeurIPS 2024 paper: 
 
 
 This code was tested on `Python 3.10.10`. To install, follow these steps:
@@ -20,6 +20,8 @@ Run `MNIST_metastable.py`, `synthetic_metastable.py`
 
 #### Numerical Simulation
 Run `bound_simulation.py`
+
+----------
 
 
 ### Citation
