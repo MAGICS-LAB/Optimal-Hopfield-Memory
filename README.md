@@ -5,7 +5,7 @@
 This code was tested on `Python 3.10.10`. To install, follow these steps:
 
 1. In a virtual environment, first install Cython: `pip install cython`
-2. Install the requirements: `pip install -r req2.txt`
+2. Install the requirements: `pip install -r requirements.txt`
 3. Run the corresponding scripts
 
 ### Reproducibility
