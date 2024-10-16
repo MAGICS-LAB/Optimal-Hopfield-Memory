@@ -8,22 +8,13 @@ This code was tested on `Python 3.10.10`. To install, follow these steps:
 2. Install the requirements: `pip install -r requirements.txt`
 3. Run the corresponding scripts
 
-### Reproducibility
-<!-- #### MNIST MIL
-Run the script `MNIST_bags.py` with the desired parameters (nomenclature can be found in the beginning of the script)
-
-#### Benchmarks MIL
-
-Download and upzip the dataset
-
-```bash
-$ wget http://www.cs.columbia.edu/~andrews/mil/data/MIL-Data-2002-Musk-Corel-Trec9-MATLAB.tgz 
-```
-
-Run the script `MIL_Data_2002.py` with the desired parameters (nomenclature can be found in the beginning of the script) -->
+### Instruction
 
 #### Countours and Basins of Attraction
-Run the scripts `countours.py` and `basins.py` 
+Run `countours.py` and `basins.py` 
 
-#### Metastable State Counting
-Run the script `MNIST_metastable.py`, `synthetic_metastable.py`
+#### Metastable State
+Run `MNIST_metastable.py`, `synthetic_metastable.py`
+
+#### Numerical Simulation
+Run `bound_simulation.py`
